@@ -53,6 +53,8 @@ h1 { margin:0; font-size:clamp(38px,6vw,50px); line-height:1.04; letter-spacing:
 .publication h3 { margin:0 0 7px; font-size:17px; line-height:1.32; letter-spacing:-.025em; font-weight:625; }
 .publication-featured h3 { font-size:21px; line-height:1.28; }
 .authors { margin:0 0 9px; color:var(--muted); font-size:11px; }
+.publication-affiliations { margin:0 0 9px; color:var(--muted); font-size:10px; line-height:1.6; }
+.publication-affiliations span { display:inline-block; }
 .description { margin:0; color:#555a55; font-size:12px; line-height:1.55; }
 .text-links { display:flex; gap:14px; margin-top:12px; font-size:11px; }
 .text-links a { color:var(--accent); font-weight:630; }
